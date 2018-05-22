@@ -1,0 +1,4 @@
+https://code.tutsplus.com/tutorials/android-from-scratch-using-rest-apis--cms-27117
+http://www.androhub.com/android-download-files-save/
+https://developer.android.com/training/data-storage/files#java
+http://programmerguru.com/android-tutorial/android-restful-webservice-tutorial-how-to-call-restful-webservice-in-android-part-3/
